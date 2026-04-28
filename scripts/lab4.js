@@ -5,6 +5,8 @@
  * @param {*} add, boolean value to tell the function what to do. 
  * @returns The sum of the two numbers if add is true and false otherwise.
  */
+
+// check
 function sumValues(num1, num2, add) {
     if (add) {
         const result = 0;
